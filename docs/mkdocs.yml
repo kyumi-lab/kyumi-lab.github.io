@@ -1,0 +1,7 @@
+site_name: Implantable Sensing Technology
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
